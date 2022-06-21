@@ -1,0 +1,201 @@
+import React from "react"
+import { useState } from "react";
+import httpClient from "../../httpClient";
+
+export default function AddItem(props) {
+    const [name, setName] = useState("");
+
+    const [fdateY, setFdateY] = useState("");
+    const [fdateM, setFdateM] = useState("");
+    const [fdateD, setFdateD] = useState("");
+
+    const [fplace, setFplace] = useState("");
+
+    const [odateY, setOdateY] = useState("");
+    const [odateM, setOdateM] = useState("");
+    const [odateD, setOdateD] = useState("");
+    const [image, setImage] = useState("");
+
+    const [descr, setDescr] = useState("");
+
+    function handleChangeName(event) {
+        setName(event.target.value)
+    }
+    function handleChangeFDateY(event) {
+        setFdateY(parseInt(event.target.value, 10))
+    }
+    function handleChangeFDateM(event) {
+        setFdateM(parseInt(event.target.value, 10))
+    }
+    function handleChangeFDateD(event) {
+        setFdateD(parseInt(event.target.value, 10))
+    }
+    function handleChangeFPlace(event) {
+        setFplace(event.target.value)
+    }
+    function handleChangeODateY(event) {
+        setOdateY(parseInt(event.target.value, 10))
+    }
+    function handleChangeODateM(event) {
+        setOdateM(parseInt(event.target.value, 10))
+    }
+    function handleChangeODateD(event) {
+        setOdateD(parseInt(event.target.value, 10))
+    }
+    function handleChangeDescr(event) {
+        setDescr(event.target.value)
+    }
+
+    const uploadedImage = React.useRef(null);
+    const imageUploader = React.useRef(null);
+
+    const toBase64 = file => new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.readAsDataURL(file);
+        const { current } = uploadedImage;
+        current.file = file;
+        reader.onload = e => {
+            current.src = e.target.result;
+            resolve(reader.result)
+        };
+        reader.onerror = error => reject(error);
+
+    })
+
+
+
+
+    async function handleImageUpload(e) {
+        const [file] = e.target.files;
+
+        if (file) {
+            setImage(await toBase64(file))
+
+        }
+    };
+
+    function handleSubmit(event) {
+        const params = {
+            Id: name + props.fatherId,
+            Name: name,
+            FindingDateY: fdateY,
+            FindingDateM: fdateM,
+            FindingDateD: fdateD,
+
+            FindingPlace: fplace,
+
+            OriginDateY: odateY,
+            OriginDateM: odateM,
+            OriginDateD: odateD,
+
+            Description: descr,
+            CatalogId: props.fatherId,
+            Image: image
+        }
+
+
+        setName("")
+        setFdateY("")
+        setFdateM("")
+        setFdateD("")
+        setFplace("")
+        setOdateY("")
+        setOdateM("")
+        setOdateD("")
+        setDescr("")
+
+        httpClient.post("/item", params);
+        alert('Añadido objeto: ' + params.Name)
+        event.preventDefault();
+
+
+    }
+
+    const father = props.fatherName
+
+    return (
+        <div className="flex h-full w-full " style={{ backgroundColor: "#DCD8A7" }}>
+
+            <form className="w-1/35 h-screen bg-white rounded shadow-lg p-8 m-4 md-max-w-sm md:mx-aut ">
+                <div
+                    style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        alignItems: "center",
+                        justifyContent: "center"
+                    }}
+                >
+                    <input
+                        type="file"
+                        accept="image/*"
+                        onChange={handleImageUpload}
+                        ref={imageUploader}
+                        style={{
+                            display: "none"
+                        }}
+                    />
+                    <div
+                        style={{
+                            height: "400px",
+                            width: "400px",
+                            border: "3px dashed black"
+                        }}
+                        onClick={() => imageUploader.current.click()}
+                    >
+                        <img alt=""
+                            ref={uploadedImage}
+                            style={{
+                                width: "100%",
+                                height: "100%",
+                                position: "acsolute"
+                            }}
+                        />
+                    </div>
+
+
+                </div>
+                <div className=" block flex w-full p-4 mx-auto ">
+                    <div className="text-center mx-auto text-lg w-full p-4 block rounded mt-6 bg-black  text-white font-semibold uppercase " >
+                        Toca en el cuadro para subir foto
+                        </div>
+                </div>
+            </form>
+
+            <div className=" w-1/75 bg-white rounded shadow-lg p-8 m-4 md-max-w-sm md:mx-aut " >
+
+                <form action="" className=" mb-4 flex flex-wrap justify-between">
+
+                    <h3 className="text-2xl text-gray-900 font-semibold">Agrega un Objeto</h3>
+                    <p className="text-gray-600 w-full"> Este Objeto será agregado a {father}</p>
+
+                    <input type="text" value={name} onChange={handleChangeName} placeholder="Nombre del Objeto" className="border p-2 w-full mt-3"></input>
+
+                    <input type="number" step="1" value={fdateY} onChange={handleChangeFDateY} placeholder="Año de Hallazgo" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+                    <input type="number" step="1" value={fdateM} onChange={handleChangeFDateM} placeholder="Mes de Hallazgo" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+                    <input type="number" step="1" value={fdateD} onChange={handleChangeFDateD} placeholder="Día de Hallazgo" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+
+                    <input type="text" value={fplace} onChange={handleChangeFPlace} placeholder="Lugar de Hallazgo" className="border p-2 w-full mt-3"></input>
+
+                    <input type="number" step="1" value={odateY} onChange={handleChangeODateY} placeholder="Año de Origen" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+                    <input type="number" step="1" value={odateM} onChange={handleChangeODateM} placeholder="Mes de Origen" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+                    <input type="number" step="1" value={odateD} onChange={handleChangeODateD} placeholder="Día de Origen" className=" border px-3 py-2 p-2 w-1/35  mt-3"></input>
+
+                    <textarea type="text" rows="5" value={descr} onChange={handleChangeDescr} placeholder="Descripción" className="border p-2 w-full mt-3"></textarea>
+
+                    <div className="flex w-full p-4 mx-auto ">
+                        <button className=" mx-auto text-lg w-1/3 p-4 block rounded mt-6 bg-black hover:bg-blue-900 text-white font-semibold uppercase " type="submit" onClick={handleSubmit}>
+                            Agregar
+                        </button>
+
+                        <button className=" mx-auto text-lg w-1/3 p-4 block rounded mt-6 bg-black hover:bg-green-900 text-white font-semibold uppercase " onClick={() => { props.handleStat(0) }}>
+                            Regresar
+                        </button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+
+
+    );
+}

